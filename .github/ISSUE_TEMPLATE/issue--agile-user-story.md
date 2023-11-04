@@ -22,7 +22,7 @@ assignees: ''
 - [ ] Task 3
 ...
 
-## Definition of Done
+## Definition of Done (Validator to check)
 - [ ] Code is reviewed by a peer
 - [ ] All tests are passing
 - [ ] Documentation has been updated
