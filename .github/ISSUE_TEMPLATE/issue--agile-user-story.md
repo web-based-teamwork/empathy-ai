@@ -7,16 +7,16 @@ assignees: ''
 
 ---
 
-## User Story
+## User Story (Issue creator to fill)
 **As a** [role], **I want** [feature], **so that** [reason].
 
-## Acceptance Criteria
+## Acceptance Criteria (Issue creator to fill)
 - [ ] Criterion 1
 - [ ] Criterion 2
 - [ ] Criterion 3
 ...
 
-## Tasks
+## Tasks (Assignee to fill as needed)
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
@@ -32,3 +32,4 @@ assignees: ''
 - Mockups
 - Diagrams
 - Screenshots
+- Delivered work linked
